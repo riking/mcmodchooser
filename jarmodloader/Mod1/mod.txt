@@ -1,0 +1,4 @@
+#Mod name. 22 Chars   |exactly (stop at the pipe)
+Vanilla               
+#Minecraft version
+Beta v1.7.3

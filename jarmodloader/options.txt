@@ -1,0 +1,12 @@
+#Minecraft.exe (2) or .jar? (1)
+2
+#Location of Minecraft.exe/jar; do not put quotes and cannot contain #; NO trailing backslash
+D:\Kane\Documents\minecraft\MCEXEFolder
+#Location of ready mods (cannot contain # and, as always, no trailing backslash)
+C:\Users\Kane York\My Documents\minecraft\modinstall
+#Archival program directory; no trailing backslash
+C:\Program Files (x86)\7-zip
+#Archival program name (Only allowed is "WinRAR"; "7Zip")
+7Zip
+#Username spoofing
+
