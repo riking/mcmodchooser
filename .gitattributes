@@ -1,0 +1,5 @@
+# For all non-ruled files, do auto
+*       text=auto
+
+# Preserve crlf in batch files
+*.bat   text eol=crlf
