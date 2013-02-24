@@ -1,9 +1,8 @@
 ## MCModChooser
-The original purpose of this project was to facilitate switching between multiple minecraft.jars for Minecraft.
+The original purpose of this project was to facilitate switching between multiple minecraft.jars for Minecraft. **For all intents and purposes, you can consider this project abandoned and unsupported.** 
 
-It was written in Batch script.
+It is written in Batch script. The result of the project was that I learned to hate Batch.
 
-The result of the project was that I learned to hate Batch.
 For example, you can execute a variable - I think I do that at least once.
 I'm pretty sure that there are some "security holes" in the sense that the user can run an arbitrary command.
 I don't really remember, because it was written like a year ago.
